@@ -1,0 +1,13 @@
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.exe
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.deps.json
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.runtimeconfig.json
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.runtimeconfig.dev.json
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.dll
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\bin\Debug\netcoreapp3.1\Week2Challange.pdb
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.csprojAssemblyReference.cache
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.AssemblyInfoInputs.cache
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.AssemblyInfo.cs
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.csproj.CoreCompileInputs.cache
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.dll
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.pdb
+C:\ElevenfiftyProjects\Challenges\Week2Challange\Week2Challange\obj\Debug\netcoreapp3.1\Week2Challange.genruntimeconfig.cache
